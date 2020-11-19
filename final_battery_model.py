@@ -22,6 +22,7 @@ peak = 0.44539
 shoulder = 0.24431
 off_peak = 0.30734
 
+
 elec_rate = 0.3773 #$/kWh
 fit = 0.16 #$/kWh
 
